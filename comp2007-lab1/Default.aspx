@@ -64,7 +64,7 @@
                     <div class="form-group">
                         <asp:Label ID="FullNameLabel" Text="Full Name" runat="server" />
                         <asp:TextBox CssClass="form-control" ID="FullnameTextBox" runat="server" />
-                    </div>S
+                    </div>
                 </form>
             </div>
         </div>
